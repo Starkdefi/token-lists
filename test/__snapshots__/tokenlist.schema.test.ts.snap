@@ -127,9 +127,9 @@ Array [
   Object {
     "instancePath": "/tokens/0/extensions/tooLong",
     "keyword": "maxLength",
-    "message": "must NOT have more than 42 characters",
+    "message": "must NOT have more than 66 characters",
     "params": Object {
-      "limit": 42,
+      "limit": 66,
     },
     "schemaPath": "#/definitions/ExtensionPrimitiveValue/anyOf/0/maxLength",
   },
@@ -348,9 +348,9 @@ Array [
   Object {
     "instancePath": "/tokens/0/address",
     "keyword": "pattern",
-    "message": "must match pattern \\"^0x[a-fA-F0-9]{40}$\\"",
+    "message": "must match pattern \\"^0x[a-fA-F0-9]{64}$\\"",
     "params": Object {
-      "pattern": "^0x[a-fA-F0-9]{40}$",
+      "pattern": "^0x[a-fA-F0-9]{64}$",
     },
     "schemaPath": "#/properties/address/pattern",
   },
@@ -401,8 +401,6 @@ Array [
   },
 ]
 `;
-
-exports[`schema cross chain extensions example 1`] = `null`;
 
 exports[`schema empty list fails 1`] = `
 Array [

@@ -20,7 +20,7 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48",
+      "address": "0x053c91253bc9682c04929ca02ed00b3e423f6710d2ee7e0d5ebb06f3ecf368a8",
       "symbol": "USDC",
       "name": "USD Coin",
       "decimals": 6,
@@ -31,10 +31,10 @@
     },
     {
       "chainId": 1,
-      "address": "0x39AA39c021dfbaE8faC545936693aC917d5E7563",
-      "symbol": "cUSDC",
-      "name": "Compound USD Coin",
-      "decimals": 8,
+      "address": "0x001108cdbe5d82737b9057590adaf97d34e74b5452f0628161d237746b6fe69e",
+      "symbol": "Dai",
+      "name": "Dai Stablecoin",
+      "decimals": 18,
       "logoURI": "ipfs://QmUSNbwUxUYNMvMksKypkgWs8unSm8dX2GjCPBVGZ7GGMr",
       "tags": [
         "compound"

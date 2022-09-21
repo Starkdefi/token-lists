@@ -4,14 +4,14 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48",
+      "address": "0x049d36570d4e46f48e99674bd3fcc84644ddd6b96f7c741b1562b82f9e004dc7",
       "decimals": 18,
       "name": "required name",
       "symbol": "symbol"
     },
     {
       "chainId": 1,
-      "address": "0x39AA39c021dfbaE8faC545936693aC917d5E7563",
+      "address": "0x001108cdbe5d82737b9057590adaf97d34e74b5452f0628161d237746b6fe69e",
       "decimals": 18,
       "name": "required name",
       "symbol": "symbol"

@@ -4,7 +4,7 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48",
+      "address": "0x001108cdbe5d82737b9057590adaf97d34e74b5452f0628161d237746b6fe69e",
       "decimals": 18,
       "name": "required name",
       "symbol": "symbol",
@@ -13,12 +13,12 @@
         "def": [1235],
         "isBoolean": {"abc": 534},
         "isNull": {"thing":  null},
-        "tooLong": "0x00000000000000000000000000000000000000001"
+        "tooLong": "0x00000000000000000000000000000000000000000000000000000000000000001"
       }
     },
     {
       "chainId": 1,
-      "address": "0x39AA39c021dfbaE8faC545936693aC917d5E7563",
+      "address": "0x001108cdbe5d82737b9057590adaf97d34e74b5452f0628161d237746b6fe69e",
       "decimals": 18,
       "name": "required name",
       "symbol": "symbol"
