@@ -1,6 +1,6 @@
 import { minVersionBump, TokenInfo, VersionUpgrade } from '../src';
 const tokenA: TokenInfo = {
-  chainId: "0x534e5f4d41494e",
+  chainId: '0x534e5f4d41494e',
   address: '0x0a',
   logoURI: 'ipfs://test',
   symbol: 'abcd',
@@ -18,7 +18,7 @@ const tokenAChangedTags: TokenInfo = {
   tags: ['hello', 'worlds'],
 };
 const tokenB: TokenInfo = {
-  chainId: "0x534e5f4d41494e",
+  chainId: '0x534e5f4d41494e',
   address: '0x0b',
   logoURI: 'ipfs://blah',
   symbol: 'defg',
