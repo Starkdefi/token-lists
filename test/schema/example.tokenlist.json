@@ -19,19 +19,19 @@
   "timestamp": "2020-06-12T00:00:00+00:00",
   "tokens": [
     {
-      "chainId": 1,
+      "chainId": "0x534e5f4d41494e",
       "address": "0x053c91253bc9682c04929ca02ed00b3e423f6710d2ee7e0d5ebb06f3ecf368a8",
       "symbol": "USDC",
       "name": "USD Coin",
       "decimals": 6,
-      "logoURI": "ipfs://QmXfzKRvjZz3u5JRgC4v5mGVbm9ahrUiB4DgzHBsnWbTMM",
+      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x6B175474E89094C44Da98b954EedeAC495271d0F/logo.png",
       "tags": [
         "stablecoin"
       ]
     },
     {
-      "chainId": 1,
-      "address": "0x001108cdbe5d82737b9057590adaf97d34e74b5452f0628161d237746b6fe69e",
+      "chainId": "0x534e5f4d41494e",
+      "address": "0x00da114221cb83fa859dbdb4c44beeaa0bb37c7537ad5ae66fe5e0efd20e6eb3",
       "symbol": "Dai",
       "name": "Dai Stablecoin",
       "decimals": 18,

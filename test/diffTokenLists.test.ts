@@ -1,7 +1,7 @@
 import { diffTokenLists, TokenInfo } from '../src';
 
 const tokenA: TokenInfo = {
-  chainId: 1,
+  chainId: "0x534e5f4d41494e",
   address: '0x0a',
   logoURI: 'ipfs://test',
   symbol: 'abcd',
@@ -19,7 +19,7 @@ const tokenAChangedTags: TokenInfo = {
   tags: ['hello', 'worlds'],
 };
 const tokenB: TokenInfo = {
-  chainId: 1,
+  chainId: "0x534e5f4d41494e",
   address: '0x0b',
   logoURI: 'ipfs://blah',
   symbol: 'defg',
@@ -44,7 +44,7 @@ describe('#diffTokenLists', () => {
       added: [],
       removed: [],
       changed: {
-        1: {
+        "0x534e5f4d41494e": {
           '0x0a': ['name', 'decimals'],
         },
       },
@@ -56,7 +56,7 @@ describe('#diffTokenLists', () => {
       added: [],
       removed: [tokenB],
       changed: {
-        1: {
+        "0x534e5f4d41494e": {
           '0x0a': ['tags'],
         },
       },
@@ -69,7 +69,7 @@ describe('#diffTokenLists', () => {
       added: [],
       removed: [tokenB],
       changed: {
-        1: {
+        "0x534e5f4d41494e": {
           '0x0a': ['tags'],
         },
       },

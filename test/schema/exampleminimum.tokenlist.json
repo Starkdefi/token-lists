@@ -3,14 +3,14 @@
   "timestamp": "2020-06-12T00:00:00+00:00",
   "tokens": [
     {
-      "chainId": 1,
+      "chainId": "0x534e5f4d41494e",
       "address": "0x049d36570d4e46f48e99674bd3fcc84644ddd6b96f7c741b1562b82f9e004dc7",
       "decimals": 18,
       "name": "required name",
       "symbol": "symbol"
     },
     {
-      "chainId": 1,
+      "chainId": "0x534e5f4d41494e",
       "address": "0x001108cdbe5d82737b9057590adaf97d34e74b5452f0628161d237746b6fe69e",
       "decimals": 18,
       "name": "required name",
