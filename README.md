@@ -1,6 +1,6 @@
 # @Starkdefi/token-lists
 
-[![Unit Tests](https://github.com/Starkdefi/token-lists/workflows/Tests/badge.svg)](https://github.com/Starkdefi/token-lists/actions?actions?query=workflow%3A%22Unit+Tests%22)
+[![Unit Tests](https://github.com/Starkdefi/token-lists/workflows/Unit%20Tests/badge.svg)](https://github.com/Starkdefi/token-lists/actions?actions?query=workflow%3A%22Unit+Tests%22)
 [![NPM Deploy](https://github.com/Starkdefi/token-lists/workflows/NPM%20Deploy/badge.svg)](https://github.com/Starkdefi/token-lists/actions?query=workflow%3A%22NPM+Deploy%22)
 [![npm](https://img.shields.io/npm/v/@starkdefi/token-lists)](https://unpkg.com/@starkdefi/token-lists@latest/)
 [![npm bundle size (scoped version)](https://img.shields.io/bundlephobia/minzip/@starkdefi/token-lists/latest.svg)](https://bundlephobia.com/result?p=@starkdefi/token-lists@latest)
