@@ -1,7 +1,9 @@
 # @Starkdefi/token-lists
 
-[![Tests](https://github.com/Starkdefi/token-lists/workflows/Tests/badge.svg)](https://github.com/Starkdefi/token-lists/actions?query=workflow%3ATests)
+[![Unit Tests](https://github.com/Starkdefi/token-lists/workflows/Tests/badge.svg)](https://github.com/Starkdefi/token-lists/actions?actions?query=workflow%3A%22Unit+Tests%22)
+[![NPM Deploy](https://github.com/Starkdefi/token-lists/workflows/NPM%20Deploy/badge.svg)](https://github.com/Starkdefi/token-lists/actions?query=workflow%3A%22NPM+Deploy%22)
 [![npm](https://img.shields.io/npm/v/@starkdefi/token-lists)](https://unpkg.com/@starkdefi/token-lists@latest/)
+[![npm bundle size (scoped version)](https://img.shields.io/bundlephobia/minzip/@starkdefi/token-lists/latest.svg)](https://bundlephobia.com/result?p=@starkdefi/token-lists@latest)
 
 This package includes a JSON schema for token lists, and TypeScript utilities for working with token lists.
 
