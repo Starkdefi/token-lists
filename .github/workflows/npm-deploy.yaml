@@ -35,7 +35,7 @@ jobs:
           echo "Current_version=$CURRENT_VERSION" >> $GITHUB_OUTPUT
 
           # Get the latest published version from npm
-          LATEST_VERSION=$(npm view @starkdefi/default-token-list version 2>/dev/null || echo "0.0.0")
+          LATEST_VERSION=$(npm view starkdefi/token-lists version 2>/dev/null || echo "0.0.0")
           echo "Latest_version=$LATEST_VERSION" >> $GITHUB_OUTPUT
           
           # Check if version has changed compared to latest published version
